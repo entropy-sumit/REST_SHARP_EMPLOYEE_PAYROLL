@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+RestSharpTest.csproj
+RestSharpTest.sln
